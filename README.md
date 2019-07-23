@@ -4,7 +4,7 @@
 
 * Human detector
 * Accurate real time face detection system
-* Puts a Hat and Monocole on the user
+* Puts a Astronaut Helmet/Hat and Monocole on the user
 
 ### Contributor
 
